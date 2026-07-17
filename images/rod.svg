@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg"
+     width="700"
+     height="200"
+     viewBox="0 0 500 200"
+     fill="none">
+
+    <text
+            x="150"
+            y="40"
+            text-anchor="middle"
+            fill="#091E53"
+            font-size="38"
+            font-style="italic"
+            font-family="Brush Script MT, Segoe Script, Snell Roundhand, Comic Sans MS, cursive"
+            letter-spacing="0.2">
+        <tspan x="150" dy="0">С уважением,</tspan>
+        <tspan x="150" dy="48">Акболат &amp; Гульмира</tspan>
+        <tspan x="150" dy="48">Досым &amp; Гульжас</tspan>
+
+    </text>
+
+</svg>
